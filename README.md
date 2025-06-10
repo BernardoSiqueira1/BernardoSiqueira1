@@ -10,7 +10,8 @@ Desenvolvedor de Software,
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Containers e Deploy
+### Containers e Orquestração
+![Docker](https://img.shields.io/badge/DOCKER-1000d3?style=for-the-badge&logo=docker&logoColor=ffffff) ![Kubernetes](https://img.shields.io/badge/Kubernetes-2fe4ea?style=for-the-badge&logo=kubernetes&logoColor=ffffff) ![Rancher](https://img.shields.io/badge/Rancher-23c0c5?style=for-the-badge&logo=rancher&logoColor=ffffff)
 
 
 ### Bancos de Dados:
