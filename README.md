@@ -1,5 +1,6 @@
 <h2>Olá, sou o Bernardo 👋</h2>
-Desenvolvedor de Software, 
+Desenvolvedor de Software, bastante interessado na área de Back-End e DevOPS.
+Aqui estarão repositórios de teste e estudos (muitas vezes mal documentados) e também pequenos projetos advindos de epifanias que tive durante a noite... 
 
 ### Linguagens e Frameworks que possuo prática:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
